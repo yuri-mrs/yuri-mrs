@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do YuriQuest 😁
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300rem" max-width="400rem" width="300rem" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300rem" max-width="400rem" width="350rem" align="right">
 
 <p>
 			<a href="https://github.com/YuriQuest">
