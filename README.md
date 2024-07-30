@@ -1,23 +1,32 @@
-## Bem-vindo(a) ao perfil do YuriQuest 😁
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300rem" max-width="400rem" width="350rem" align="right">
+# Olá, eu sou o Yuri! 👋
+<img src="https://media.licdn.com/dms/image/D4D03AQEfxB662O8oFA/profile-displayphoto-shrink_800_800/0/1718655812495?e=1727913600&v=beta&t=-3Xd9BlOOIu0rYuIGKcQHZMT1OsO4lUF1sCWoVcxAfA" height=250 style="border-radius: 50%;"/>
 
+[![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriquest/)
+[![twitter](https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YuriQuest_) 
+
+
+## 🚀 Sobre mim
+### Eu sou um desenvolvedor em desenvolvimento...
+
+👩‍💻 Trabalho atualmente em projetos open-souce e pessoais.
+
+🧠 Estou aprendendo mais sobre desenvolvimento de API's e programação em Java e Javascript.
+
+👯‍♀️ Procuro colaborar na criação e aprimoramento de ferramentas open-source.
+
+🤔 Procuro ajuda com aprendisado de API's e meu repositorio com informações uteis para devs
+
+## 🛠 Habilidades
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=80/>
+          
+## Git Stats
 <p>
 			<a href="https://github.com/YuriQuest">
-			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriQuest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-			<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriQuest&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
-<p>
-	<img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-	<img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-	<img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
-</p>
-
-<p>
-	<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-	<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-	<a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriQuest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriQuest&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
