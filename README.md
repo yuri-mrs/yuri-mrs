@@ -1,15 +1,7 @@
 
 # Olá, eu sou o Yuri! 👋
-<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/8ea95789-b6c3-42bb-8b11-5b9fe611a5b9?size=60?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
 
-[![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriquest/)
-[![twitter](https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YuriQuest_) 
-
-
-## 🚀 Sobre mim
-### Eu sou um desenvolvedor em desenvolvimento...
+### Eu sou um desenvolvedor em desenvolvimento... <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/8ea95789-b6c3-42bb-8b11-5b9fe611a5b9?size=60?v=4&h=280&w=280&fit=cover&mask=circle&maxage=7d" align="right"/>
 
 👩‍💻 Trabalho atualmente em projetos open-souce e pessoais.
 
@@ -18,6 +10,11 @@
 👯‍♀️ Procuro colaborar na criação e aprimoramento de ferramentas open-source.
 
 🤔 Procuro ajuda com aprendisado de API's e meu repositorio com informações uteis para devs
+
+[![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriquest/)
+[![twitter](https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YuriQuest_) 
 
 ## 🛠 Habilidades
 
