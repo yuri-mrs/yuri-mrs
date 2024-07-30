@@ -1,6 +1,6 @@
 
 # Olá, eu sou o Yuri! 👋
-<img src=" height=250 style="border-radius:50%;"/>
+<img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/8ea95789-b6c3-42bb-8b11-5b9fe611a5b9?size=60?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d"/>
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
@@ -30,3 +30,5 @@
 			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriQuest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriQuest&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
+
+
