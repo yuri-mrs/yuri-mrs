@@ -1,6 +1,6 @@
 
 # Olá, eu sou o Yuri! 👋
-<img src="https://media.licdn.com/dms/image/D4D03AQEfxB662O8oFA/profile-displayphoto-shrink_800_800/0/1718655812495?e=1727913600&v=beta&t=-3Xd9BlOOIu0rYuIGKcQHZMT1OsO4lUF1sCWoVcxAfA" height=250 style="border-radius: 50%;"/>
+<img src=" height=250 style="border-radius:50%;"/>
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
