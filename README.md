@@ -3,23 +3,25 @@
 
 ### Eu sou um desenvolvedor em desenvolvimento... <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/8ea95789-b6c3-42bb-8b11-5b9fe611a5b9?size=60?v=4&h=280&w=280&fit=cover&mask=circle&maxage=7d" align="right"/>
 
-👩‍💻 Trabalho atualmente em projetos open-souce e pessoais.
+👩‍💻 Trabalho atualmente em projetos pessoais open-souce.
 
-🧠 Estou aprendendo mais sobre desenvolvimento de API's e programação em Java e Javascript.
+🧠 Atualmente estou estudando e pesquisando sobre o desenvolvimento de API's e programação com Java, Javascript e Gdscript.
 
-👯‍♀️ Procuro colaborar na criação e aprimoramento de ferramentas open-source.
+👯‍♀️ Procuro colaborar na criação de outros projetos open-source.
 
-🤔 Procuro ajuda com aprendisado de API's e meu repositorio com informações uteis para devs
+🤔 Aceito feedback em relação aos meu codigos.
 
 [![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriquest/)
-[![twitter](https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YuriQuest_) 
+[![twitter](https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YuriQuest_)
+
 
 ## 🛠 Habilidades
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=80/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=80 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=80/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height=80/>
+
           
 ## Git Stats
 <p>
