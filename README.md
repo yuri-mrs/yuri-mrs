@@ -1,32 +1,94 @@
-# Olá, eu sou o Yuri! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### Eu sou um desenvolvedor em desenvolvimento... <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/8ea95789-b6c3-42bb-8b11-5b9fe611a5b9?size=60?v=4&h=280&w=280&fit=cover&mask=circle&maxage=7d" align="right"/>
+###
 
-👩‍💻 Trabalho atualmente em projetos pessoais open-souce.
+<p align="left">My name is Yuri and I'm a programmer, from Rio de Janeiro,Brazil.</p>
 
-🧠 Atualmente estou estudando e pesquisando sobre o desenvolvimento de API's e programação com Java, Javascript e Gdscript.
+###
 
-👯‍♀️ Procuro colaborar na criação de outros projetos open-source.
+<h2 align="left">About me</h2>
 
-🤔 Aceito feedback em relação aos meu codigos.
+###
 
-[![Tumblr](https://img.shields.io/badge/Tumblr-2A445F?style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/yuriquestcode)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FF254B?style=for-the-badge&logo=Itch.io&logoColor=white)](https://www.tumblr.com/yuriquestzero)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriquest/)
-[![twitter](https://img.shields.io/badge/X.com-000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YuriQuest_)
+<div align="left">
+  <a href="https://linktr.ee/YuriCodingQuest" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yuriquest/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://ko-fi.com/yuricodingquest" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+  </a>
+</div>
 
+###
 
-## 🛠 Habilidades
+<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning Clean Code.<br>🎯 Goals: Become a Developer with a job, create a big project.<br>🎲 Fun fact: two is not one.</p>
 
+###
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height=60/>
+<h2 align="left">Languages</h2>
 
-          
-## Git Stats
-<p>
-			<a href="https://github.com/YuriQuest">
-			<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriQuest&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-			<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriQuest&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
+###
+
+<h2 align="left">Programs | Operating Systems</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/YuriQuest/YuriQuest/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">Git Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriQuest&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriQuest&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
