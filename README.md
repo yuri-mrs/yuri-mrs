@@ -2,14 +2,6 @@
 
 ###
 
-<p align="left">My name is Yuri and I'm a programmer, from Rio de Janeiro,Brazil.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <div align="left">
   <a href="https://linktr.ee/YuriCodingQuest" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
@@ -22,13 +14,23 @@
   </a>
 </div>
 
+### 
+
+<p align="left">My name is Yuri and I'm a developer from Rio de Janeiro,Brazil.</p>
+
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br>📚 I'm currently learning Clean Code.<br>🎯 Goals: Become a Developer with a job, create a big project.<br>🎲 Fun fact: two is not one.</p>
+<h2 align="left">About me</h2>
+
+
 
 ###
 
-<h2 align="left">Languages</h2>
+<p align="left">✨ Creating bugs since 2019.<br><br>🎓 I'm currently learning :<br> ● English.<br> ● Artificial Intelligence<br> ● Java<br><br>🎯 Goals :<br> ● Create a good project.<br> ● Work as a Frontend or Backend developer<br><br>🎲 Fun facts :<br> ● The fist number isn't one but zero.<br> ● If you don't know where you want to be any place suits you.<br><br>I regularly take part in jam events, creating game projects, tools and graphic resources.</p>
+
+###
+
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -46,7 +48,7 @@
 
 ###
 
-<h2 align="left">Programs | Operating Systems</h2>
+<h2 align="left">Programs</h2>
 
 ###
 
@@ -59,21 +61,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Operating Systems</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
