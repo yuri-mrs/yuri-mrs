@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019.<br><br>🎓 I'm currently learning :<br> ● English.<br> ● Artificial Intelligence<br> ● Java<br><br>🎯 Goals :<br> ● Create a good project.<br> ● Work as a Frontend or Backend developer<br><br>🎲 Fun facts :<br> ● The fist number isn't one but zero.<br> ● If you don't know where you want to be any place suits you.<br><br>I regularly take part in jam events, creating game projects, tools and graphic resources.</p>
+<p align="left">✨ Creating bugs since 2019.<br><br>🎓 I'm currently learning :<br> ● English.<br> ● Artificial Intelligence<br> ● Java<br><br>🎯 Goals :<br> ● Create a good project.<br> ● Work as a Frontend or Backend developer<br><br>🎲 Fun facts :<br> ● The fist number isn't one but zero.<br> ● If you don't know where you want to be any place suits you.<br><br>I am a regular participant in jam events and create projects such as games, tools and graphics resources.</p>
 
 ###
 
