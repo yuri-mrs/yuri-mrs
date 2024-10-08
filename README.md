@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm Yuri and I'm a developer based in Rio de Janeiro,Brazil.</p>
+<p align="center">I'm Yuri and I'm a developer based in Rio de Janeiro,Brazil.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linktree logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="ko-fi logo"  />
@@ -74,14 +74,19 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriQuest&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriQuest&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="134" alt="languages graph"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/YuriQuest/YuriQuest/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriQuest&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriQuest&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriQuest&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuriQuest&radius=16&theme=gotham&area=true&order=5" height="280" alt="activity-graph graph"  />
 </div>
 
 ###
