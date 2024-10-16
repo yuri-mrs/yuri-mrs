@@ -10,8 +10,7 @@
 
 ###
 
-
-<img align="right" src="./src/programmer.png" height="300">
+<img align="right" src="//wsrv.nl/?url=https://github.com/YuriQuest/YuriQuest/blob/main/src/programmer.png?raw=true&w=300&h=300&fit=cover&mask=circle">
 
 <p align="left">✨ Creating bugs since 2019.<br>🎓 I'm currently learning :<br> ● English.<br> ● Artificial Intelligence<br> ● Java<br><br>🎯 Goals :<br> ● Create a good project.<br> ● Work as a Frontend or Backend developer<br><br>🎲 Fun facts :<br> ● The fist number isn't one but zero.<br> ● If you don't know where you want to be any place suits you.<br><br>I regularly take part in jam events, creating game projects, tools and graphic resources.</p>
 
@@ -43,79 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
-
-
-###
-
-<p align="center">I'm Yuri and I'm a developer based in Rio de Janeiro,Brazil.</p>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="ko-fi logo"  />
-</div>
-
-###
-
-<h4 align="left">✨ Creating bugs since 2019.</h4>
-
-###
-
-<p align="left">● I am a regular participant in jam events and create projects such as games, tools and graphics resources.</p>
-
-###
-
-<h4 align="left">🎓 I'm currently learning:</h4>
-
-###
-
-<p align="left">● Javascript<br>● Artificial Intelligence<br>● Java<br>● RESTful Api</p>
-
-###
-
-<h4 align="left">🎯 My Goals are to:</h4>
-
-###
-
-<p align="left">● Create good projects.<br>● Work full time as a Developer.<br>● Contribute to more open source projects.</p>
-
-###
-
-<h4 align="left">🎲 Fun facts:</h4>
-
-###
-
-<p align="left">● The fist number isn't one but zero.<br>● If you don't know where you want to be any place suits you.</p>
-
-###
-
-<h4 align="left">Programs and Technologies</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
