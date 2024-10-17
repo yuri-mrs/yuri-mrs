@@ -4,13 +4,13 @@
 
 <p align="left">My name is Yuri and I'm a developer from Rio de Janeiro,Brazil.</p>
 
+<img align="right" src="./src/programmer.png" alt="Logo" width="300" height="300">
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
-<img align="right" src="//wsrv.nl/?url=https://github.com/YuriQuest/YuriQuest/blob/main/src/programmer.png?raw=true&w=300&h=300&fit=cover&mask=circle">
 
 <p align="left">✨ Creating bugs since 2019.<br>🎓 I'm currently learning :<br> ● English.<br> ● Artificial Intelligence<br> ● Java<br><br>🎯 Goals :<br> ● Create a good project.<br> ● Work as a Frontend or Backend developer<br><br>🎲 Fun facts :<br> ● The fist number isn't one but zero.<br> ● If you don't know where you want to be any place suits you.<br><br>I regularly take part in jam events, creating game projects, tools and graphic resources.</p>
 
