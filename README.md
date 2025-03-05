@@ -1,48 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-### 
-
-<p align="left">My name is Yuri and I'm a developer from Rio de Janeiro,Brazil.</p>
-
-<img align="right" src="./src/programmer.png" alt="Logo" width="300" height="300">
+<h1 align="center">Turning Thoughts into Code Since 2019</h1>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2019.<br>🎓 I'm currently learning :<br> ● English.<br> ● Artificial Intelligence<br> ● Java<br><br>🎯 Goals :<br> ● Create a good project.<br> ● Work as a Frontend or Backend developer<br><br>🎲 Fun facts :<br> ● The fist number isn't one but zero.<br> ● If you don't know where you want to be any place suits you.<br><br>I regularly take part in jam events, creating game projects, tools and graphic resources.</p>
-
-###
-
-<h2 align="left">Technologies and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+<img align="right" src="./src/programmer4_3.jpeg" alt="Logo" width="375" height="500">
 
 ###
 
@@ -60,11 +20,57 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YuriQuest/YuriQuest/output/snake.svg" alt="Snake animation" />
+<p align="left">My name is Yuri and I'm a developer from Rio de Janeiro,Brazil.<br></p>
+I am a Junior Developer / Programmer (⭐) with experience in website creation, REST API development, and game development. I am always looking to improve my skills by participating in coding challenges, tech events, and cybersecurity activities.
 
-###
+<h3 align="left">🧑‍💻 Programming Languages</h3>
 
-<h2 align="center">Git Stats</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"/>
+  
+</div>
+
+<h3 align="left">🚀 Technologies & Frameworks</h3>
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12" />
+
+</div>
+
+<h3 align="left">🛠️ Tools</h3>
+
+<div>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="./src/icons/rpgmakermv.png" height="30" alt="Rpg maker mv"  />
+  <img width="12" />
+  <img src="./src/icons/gdevelop.png" height="30" alt="Rpg maker mv"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+
+</div>
 
 ###
 
@@ -72,6 +78,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YuriQuest&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriQuest&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/YuriQuest/YuriQuest/output/snake.svg" alt="Snake animation" />
 
 ###
 
