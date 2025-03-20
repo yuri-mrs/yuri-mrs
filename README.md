@@ -7,14 +7,17 @@
 ###
 
 <div align="left">
-  <a href="https://linktr.ee/YuriCodingQuest" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
+  <a href="https://yuricodingquest.carrd.co" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Carrd&logo=carrd&label=&color=4C4396&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linktree logo"  />
   </a>
   <a href="https://www.linkedin.com/in/yuriquest/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://ko-fi.com/yuricodingquest" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=32c8db&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
+  </a>
+  <a href="https://kuronekoyukio.itch.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Itch.Io&logo=itchdotio&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="ko-fi logo"  />
   </a>
 </div>
 
