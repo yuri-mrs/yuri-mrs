@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/Cats%20Cavern-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cats-cavern)
 
   <p>
-    I'm a junior full stack developer with experience in personal projects, web development, back-end, and game creation. I love building creative and collaborative solutions.
+    I am a Junior Full Stack Developer skilled in JavaScript, React, TypeScript, Java, Spring Boot, REST APIs, and Tailwind CSS. I have hands-on experience building responsive and scalable web applications, working across frontend and backend to deliver efficient solutions. I am committed to continuously improving my technical skills and applying best practices to create high-quality products.
   </p>
 
 ###
