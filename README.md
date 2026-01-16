@@ -1,6 +1,8 @@
-<a href="https://yuricodingquest.carrd.co" target="_blank">
-      <img src="./src/banners/title.gif" alt="linktree logo"  />
-</a>
+<p align="center">
+  <a href="https://yuricodingquest.carrd.co" target="_blank">
+      <img src="./src/banners/Banner.gif" alt="linktree logo"  />
+  </a>
+<p/>
 
 ###
 
@@ -12,9 +14,20 @@
 
 ###
 
-Junior Software Developer experienced in web development, game creation, and multiplatform applications. Skilled in frontend and backend development using JavaScript, HTML, CSS, Tailwind, with additional experience in Python and GDScript for scalable and high-performance solutions. Developed websites, games, databases, and electronic circuits using tools such as Arduino, Unity, Godot, RPG Maker, and Blender. Seeking opportunities to work in a team environment, apply software development best practices, and contribute to projects that make a positive impact, while continuously improving technical skills.
+## ⚡ **Main Skills**  
+- Frontend & Backend: JavaScript, HTML, CSS, Tailwind  
+- Other languages: Python, GDScript  
+- Tools: Unity, Godot, RPG Maker, Blender, Arduino  
 
-## Technologies
+## 📚 **Background**  
+- Self-taught: working with code since 2010 (Ruby scripts in RPG Maker) 
+- Electronics Technician (2015)   
+- More structured studies started in 2019, free courses e etc
+- Started **Bachelor's in Computer Science** in 2022 paused in 2023 (**Web Development Modules Completed**)
+
+Passionate about technology since a young age. Looking for team opportunities to apply best practices, contribute to impactful projects, and continuously level up my skills.
+
+## 🛠️ Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -29,7 +42,7 @@ Junior Software Developer experienced in web development, game creation, and mul
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Tools
+## 🧰 Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
