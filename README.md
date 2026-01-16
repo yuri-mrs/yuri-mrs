@@ -14,13 +14,7 @@
 
 Junior Software Developer experienced in web development, game creation, and multiplatform applications. Skilled in frontend and backend development using JavaScript, HTML, CSS, Tailwind, with additional experience in Python and GDScript for scalable and high-performance solutions. Developed websites, games, databases, and electronic circuits using tools such as Arduino, Unity, Godot, RPG Maker, and Blender. Seeking opportunities to work in a team environment, apply software development best practices, and contribute to projects that make a positive impact, while continuously improving technical skills.
 
-###
-
-<img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/output/snake.svg" alt="Snake animation" />
-
-###
-
-## Languages
+## Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -45,13 +39,6 @@ Junior Software Developer experienced in web development, game creation, and mul
 ![Gdevelop Badge](https://img.shields.io/badge/Gdevelop-c180ff?logo=gitee&logoColor=fff&style=for-the-badge)
 ![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge)
 
-###
+<h1 align="center">📈 My GitHub History!</h1>
 
-<h1 align="center">Git Stats</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuri-mrs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuri-mrs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
-
-###
+<img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/output/snake.svg" alt="Snake animation" />
