@@ -59,7 +59,7 @@ Passionate about technology since a young age. Looking for team opportunities to
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=yuri-mrs&repo=Portfolio&show_owner=truetheme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=yuri-mrs&repo=Portfolio&show_owner=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
