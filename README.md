@@ -15,7 +15,7 @@
 ###
 
 ## ⚡ **Main Skills**  
-- Frontend & Backend: JavaScript, HTML, CSS, Tailwind  
+- Frontend & Backend: TypeScript, React, Tailwind, Java
 - Other languages: Python, GDScript  
 - Tools: Unity, Godot, RPG Maker, Blender, Arduino  
 
