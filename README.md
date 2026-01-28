@@ -27,7 +27,7 @@
 
 Passionate about technology since a young age. Looking for team opportunities to apply best practices, contribute to impactful projects, and continuously level up my skills.
 
-## 🛠️ Technologies
+## 🧠 Languages & Markup
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -38,20 +38,41 @@ Passionate about technology since a young age. Looking for team opportunities to
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white&style=for-the-badge)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🧰 Tools
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+
+## 🎮 Game Engines
 ![Godot Engine Badge](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=for-the-badge)
-![Rpg Maker Series Badge](https://img.shields.io/badge/RPG%20Maker%20Series-04B0F8?logo=dragonframe&logoColor=fff&style=for-the-badge)
+![RPG Maker MV](https://img.shields.io/badge/RPG%20Maker%20MV-2E7D32?style=for-the-badge&logoUrl=https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/rpg-maker-mv-X64.png&logoColor=fff)
 ![Gdevelop Badge](https://img.shields.io/badge/Gdevelop-c180ff?logo=gitee&logoColor=fff&style=for-the-badge)
+
+##  🛠️ Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Blender Badge](https://img.shields.io/badge/Blender-E87D0D?logo=blender&logoColor=fff&style=for-the-badge)
+<h1> ✨ My projects </h1>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuri-mrs&repo=Portfolio&show_owner=true)](https://github.com/yuri-mrs/Portfolio)
 
 <h1 align="center">📈 My GitHub History!</h1>
 
 <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yuri-mrs&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yuri-mrs&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuri-mrs&show_icons=true" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-mrs)](https://github.com/anuraghazra/github-readme-stats)
