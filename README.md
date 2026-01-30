@@ -8,10 +8,10 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yuricodingquest.carrd.co)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/yuri-mrs/)
-[![Itchdotio](https://img.shields.io/badge/Itch.io-F16061?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cats-cavern.itch.io)
-[![GitHub](https://img.shields.io/badge/Cats%20Cavern-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cats-cavern)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@ymPixels)
 
+[![Itchdotio](https://img.shields.io/badge/Itch.io-F16061?style=for-the-badge&logo=itchdotio&logoColor=white)](https://cats-cavern.itch.io)
+[![GitHub](https://img.shields.io/badge/ForgeClaw-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cats-cavern)
 ###
 
 ### ⚡ **Main Skills**  
