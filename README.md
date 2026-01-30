@@ -16,8 +16,8 @@
 
 ### ⚡ **Main Skills**  
 - Frontend & Backend: TypeScript, React, Tailwind, Java
-- Other languages: Python, GDScript  
-- Tools: Unity, Godot, RPG Maker, Blender, Arduino  
+- Other languages: Python, GDScript, C#  
+- Tools: Unity, Godot, RPG Maker (Mv,Vx-Ace,XP), Blender, Arduino  
 
 ### 📚 **Background**  
 - Self-taught: working with code since 2010 (Ruby scripts in RPG Maker) 
