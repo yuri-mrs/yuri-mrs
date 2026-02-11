@@ -36,50 +36,14 @@ Passionate about technology since a young age. Looking for team opportunities to
   <img src="https://skillicons.dev/icons?i=java,python,cs,spring,mysql" height="65" alt="Backend & DB" />
   <br/><br/>
   <!-- Game Dev & Tools -->
-  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/rpg-maker-mv.png" height="65" alt="Rpg-maker-mv" />
-  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/gdevelop.png" height="65" alt="Gdevelop" />
+  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/rpg-maker-mv.png" height="48" alt="Rpg-maker-mv" />
+  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/gdevelop.png" height="48" alt="Gdevelop" />
   <img src="https://skillicons.dev/icons?i=unity,godot,blender,git,md" height="65" alt="Game Dev & Others" />
 
 </p>
 
 <h1 align="center"> ✨ My projects </h1>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=yuri-mrs&repo=Portfolio&show_owner=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=yuri-mrs&repo=Portfolio&show_owner=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuri-mrs&repo=Portfolio&show_owner=true" />
-</picture>
-
 <h1 align="center">📈 My GitHub History!</h1>
 
 <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/output/snake.svg" alt="Snake animation" />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuri-mrs&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yuri-mrs&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yuri-mrs&show_icons=true" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-mrs&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-mrs"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-mrs" />
-</picture>
