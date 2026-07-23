@@ -1,23 +1,40 @@
+<div align="center">
+  <div style="background-color:#716969; padding:15px; border-radius:10px;">
+    <table>
+      <tr>
+        <td align="center" >
+          <a href="https://linkedin.com/in/yuri-mrs/" target="_blank">
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40em" alt="Linkedin "/>
+          </a>
+          <a  href="https://seuportfolio.com" target="_blank">
+            <svg fill="#ffff" width="3rem" viewBox="0 0 128 128">
+              <path d="M64.002 8.576 128 119.424H0Zm0 0"></path>
+            </svg>
+          </a>
+        </td>
+        <td align="center">
+          <p style="font-size: 3em;">Hello W<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/globe-showing-americas_1f30e.gif" width="35em">rld</p>
+        </td>
+        <td>
+          <a href="https://forge-claw.itch.io" target="_blank">
+            <img src="https://cdn.simpleicons.org/itch.io/rose" width="40" height="40" alt="itch.io">
+          </a>
+          <a href="https://github.com/ForgeClaw" target="_blank">
+            <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-<div>
-  <img align="right" style="position: relative" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpejAzcmw4dW96MWdrbXhxcHI3a3dza3ZnMWpleXB3eWVhODBiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="200rem" alt="Frontend" />
-  <div>
-    <a href="https://cats-cavern.itch.io" taget="_blank">
-      <img src="https://img.shields.io/badge/Itch.io-F16061?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io">
-    </a>
-    <a href="https://github.com/ForgeClaw" target="_blank">
-      <img src="https://img.shields.io/badge/ForgeClaw-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://github.com/ForgeClaw" target="_blank">
-      <img src="https://img.shields.io/badge/ForgeClaw-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </div>
-</div>
+<img align="right" style="position: relative" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpejAzcmw4dW96MWdrbXhxcHI3a3dza3ZnMWpleXB3eWVhODBiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="200rem" alt="Frontend" />
+
 
 <p align="center">
   <!-- Icons 1 -->
@@ -30,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/gdevelop.png" height="48" alt="Gdevelop" />
 
 </p>
-<br/>
+<br/><br/>
 
 <h1 align="center"> ✨ My projects </h1>
 
