@@ -1,40 +1,25 @@
-<div align="center">
-  <div style="background-color:#716969; padding:15px; border-radius:10px;">
-    <table>
-      <tr>
-        <td align="center" >
-          <a href="https://linkedin.com/in/yuri-mrs/" target="_blank">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40em" alt="Linkedin "/>
-          </a>
-          <a  href="https://seuportfolio.com" target="_blank">
-            <svg fill="#ffff" width="3rem" viewBox="0 0 128 128">
+<img src="https://github.com/yuri-mrs/yuri-mrs/blob/main/src/banners/Banner.gif?raw=true">
+
+<h1 align="center">👤 Social</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yuri-mrs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40em" alt="Linkedin "/>
+  </a>
+  <a  href="https://seuportfolio.com" target="_blank">
+    <svg fill="#000000" width="3rem" viewBox="0 0 128 128">
               <path d="M64.002 8.576 128 119.424H0Zm0 0"></path>
-            </svg>
-          </a>
-        </td>
-        <td align="center">
-          <p style="font-size: 3em;">Hello W<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/461/globe-showing-americas_1f30e.gif" width="35em">rld</p>
-        </td>
-        <td>
-          <a href="https://forge-claw.itch.io" target="_blank">
-            <img src="https://cdn.simpleicons.org/itch.io/rose" width="40" height="40" alt="itch.io">
-          </a>
-          <a href="https://github.com/ForgeClaw" target="_blank">
-            <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+    </svg>
+  </a>
+  <a href="https://forge-claw.itch.io" target="_blank">
+    <img src="https://cdn.simpleicons.org/itch.io/rose" width="40" height="40" alt="itch.io">
+  </a>
+  <a href="https://github.com/ForgeClaw" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">
+  </a>
+</p>
 
-<img align="right" style="position: relative" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpejAzcmw4dW96MWdrbXhxcHI3a3dza3ZnMWpleXB3eWVhODBiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="200rem" alt="Frontend" />
-
+<h1 align="center">👨🏿‍💻 Tech, skills and tools</h1>
 
 <p align="center">
   <!-- Icons 1 -->
@@ -43,10 +28,16 @@
   <img src="https://skillicons.dev/icons?i=python,cs,spring,mysql,md" height="48" alt="python,cs,spring,mysql,md,git" />
   <!-- Icons 3 -->
   <img src="https://skillicons.dev/icons?i=unity,godot,blender,git" height="48" alt="unity,godot,blender" />
-  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/rpg-maker-mv.png" height="48" alt="Rpg-maker-mv" />
-  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/gdevelop.png" height="48" alt="Gdevelop" />
+  <!-- Icons extra -->
+  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/rpg-maker-mv.png" height="48em" alt="Rpg-maker-mv" />
+  <img src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/refs/heads/main/src/icons/gdevelop.png" height="48em" alt="Gdevelop" />
 
 </p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuri-mrs/yuri-mrs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 <br/><br/>
 
 <h1 align="center"> ✨ My projects </h1>
