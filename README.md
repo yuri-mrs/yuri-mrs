@@ -1,6 +1,6 @@
 <img src="https://github.com/yuri-mrs/yuri-mrs/blob/main/src/banners/Banner.gif?raw=true">
 
-<h1 align="center">👤 Social</h1>
+<h1></h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/yuri-mrs/" target="_blank">
@@ -40,7 +40,7 @@
 </picture>
 <br/><br/>
 
-<h1 align="center"> ✨ My projects </h1>
+<h1 align="center"> ✨ Some projects </h1>
 
 [![js-html-poke-index-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-html-poke-index&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-html-poke-index#gh-dark-mode-only)
 [![js-html-poke-index-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-html-poke-index&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-html-poke-index#gh-light-mode-only)
@@ -54,14 +54,14 @@
       srcset="https://github-stats-extended.vercel.app/api?username=yuri-mrs&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-stats-extended.vercel.app/api?username=yuri-mrs&show_icons=true" width="370"/> <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=yuri-mrs&show_icons=true" width="400"/> <!-- light mode -->
 </picture>
 <picture>
   <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yuri-mrs&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuri-mrs&show_icons=true" width="280"/> <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuri-mrs&show_icons=true" width="305"/> <!-- light mode -->
 </picture>
 
 ####
