@@ -14,7 +14,7 @@
   <a href="https://forge-claw.itch.io" target="_blank">
     <img src="https://cdn.simpleicons.org/itch.io/rose" width="40" height="40" alt="itch.io">
   </a>
-  <a href="https://github.com/ForgeClaw" target="_blank">
+  <a href="https://github.com/Forge-claw" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub">
   </a>
 </p>
@@ -42,8 +42,11 @@
 
 <h1 align="center"> ✨ Some projects </h1>
 
-[![js-html-poke-index-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-html-poke-index&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-html-poke-index#gh-dark-mode-only)
-[![js-html-poke-index-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-html-poke-index&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-html-poke-index#gh-light-mode-only)
+[![Pcdex_Pokedex-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-dark-mode-only)
+[![Pcdex_Pokedex-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-light-mode-only)
+
+[![js-yugioh-jokenpo-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-dark-mode-only)
+[![js-yugioh-jokenpo-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-light-mode-only)
 
 <h1 align="center">📈 My GitHub Status!</h1>
 
