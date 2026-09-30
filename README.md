@@ -42,11 +42,11 @@
 
 <h1 align="center"> ✨ Some projects </h1>
 
-[![Pcdex_Pokedex-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-dark-mode-only)
-[![Pcdex_Pokedex-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-light-mode-only)
+[![Pcdex_Pokedex-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&card_width=300&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-dark-mode-only)
+[![Pcdex_Pokedex-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&card_width=300&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-light-mode-only)
 
-[![js-yugioh-jokenpo-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-dark-mode-only)
-[![js-yugioh-jokenpo-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-light-mode-only)
+[![js-yugioh-jokenpo-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&card_width=300&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-dark-mode-only)
+[![js-yugioh-jokenpo-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&card_width=300&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-light-mode-only)
 
 <h1 align="center">📈 My GitHub Status!</h1>
 
@@ -75,4 +75,4 @@
 - Started **Bachelor's in Computer Science** in 2022 paused in 2023 (**Web Development Modules Completed**)
 - More structured studies started in 2019, free courses e etc
 - Electronics Technician (2015)   
-- Self-taught: working with code since 2010 (Ruby scripts in RPG Maker) 
+- First contact with code since 2010 (Ruby scripts in RPG Maker) 
