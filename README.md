@@ -44,7 +44,6 @@
 
 [![Pcdex_Pokedex-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&card_width=300&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-dark-mode-only)
 [![Pcdex_Pokedex-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&card_width=300&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-light-mode-only)
-
 [![js-yugioh-jokenpo-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&card_width=300&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-dark-mode-only)
 [![js-yugioh-jokenpo-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&card_width=300&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-light-mode-only)
 
