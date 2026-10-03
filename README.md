@@ -46,6 +46,12 @@
 [![Pcdex_Pokedex-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=Pcdex_Pokedex&card_width=305&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/Pcdex_Pokedex#gh-light-mode-only)
 [![js-yugioh-jokenpo-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&card_width=305&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-dark-mode-only)
 [![js-yugioh-jokenpo-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-yugioh-jokenpo&card_width=305&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-yugioh-jokenpo#gh-light-mode-only)
+[![JS_HTML-detona-ralph-game-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=JS_HTML-detona-ralph-game&card_width=305&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/JS_HTML-detona-ralph-game#gh-dark-mode-only)
+[![JS_HTML-detona-ralph-game-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=JS_HTML-detona-ralph-game&card_width=305&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/JS_HTML-detona-ralph-game#gh-light-mode-only)
+[![js-html-simulador-de-piano-Dark](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-html-simulador-de-piano&card_width=305&theme=dark#gh-dark-mode-only)](https://github.com/yuri-mrs/js-html-simulador-de-piano#gh-dark-mode-only)
+[![js-html-simulador-de-piano-Light](https://github-stats-extended.vercel.app/api/pin/?username=yuri-mrs&repo=js-html-simulador-de-piano&card_width=305&theme=dark#gh-light-mode-only)](https://github.com/yuri-mrs/js-html-simulador-de-piano#gh-light-mode-only)
+
+
 
 <h1 align="center">📈 My GitHub Status!</h1>
 
